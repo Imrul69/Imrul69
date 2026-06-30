@@ -4,7 +4,7 @@ I am an entrepreneur and mental health advocate based in Dhaka, Bangladesh. My m
 
 ### 🧠 What I'm Building
 
-Currently, I am the Founder of **[Chum Wellness](https://chumwellness.com/)**, the premier mental health clinic in Dhaka. 
+Currently, I am the Founder of **[Chum Wellness](https://chumwellness.com/)**, the premier mental health service platform in Dhaka. 
 
 We are tackling the massive rise in corporate burnout, anxiety, and depression among the tech and startup communities. Instead of relying on traditional, clinical hospital environments, we have built a modern platform that connects professionals with top-tier, **[licensed clinical psychologists](https://chumwellness.com/our-therapists/)** for secure telehealth and in-person Cognitive Behavioral Therapy (CBT).
 
