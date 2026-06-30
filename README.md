@@ -1,16 +1,15 @@
-## Hi there 👋
+# 👋 Hi, I'm Imrul Kayes
 
-<!--
-**Imrul69/Imrul69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an entrepreneur and mental health advocate based in Dhaka, Bangladesh. My mission is to break the cultural stigma surrounding mental healthcare in South Asia and make evidence-based therapy accessible to modern professionals.
 
-Here are some ideas to get you started:
+### 🧠 What I'm Building
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently, I am the Founder of **[Chum Wellness](https://chumwellness.com/)**, the premier mental health clinic in Dhaka. 
+
+We are tackling the massive rise in corporate burnout, anxiety, and depression among the tech and startup communities. Instead of relying on traditional, clinical hospital environments, we have built a modern platform that connects professionals with top-tier, **[licensed clinical psychologists](https://chumwellness.com/our-therapists/)** for secure telehealth and in-person Cognitive Behavioral Therapy (CBT).
+
+### 📫 Let's Connect
+If you are passionate about health-tech, mental wellness, or building startups in Bangladesh, feel free to reach out!
+
+*   **Website:** [chumwellness.com](https://chumwellness.com/)
+*   **Focus:** Startup Burnout, Mental Health Infrastructure, HealthTech
